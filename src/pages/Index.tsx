@@ -51,7 +51,7 @@ const Index = () => {
           </div>
           <span className="text-xs text-muted-foreground flex items-center gap-1.5">
             <span className="w-1.5 h-1.5 rounded-full bg-primary animate-pulse" />
-            Powered by Gemini 2.5 Flash
+           
           </span>
         </div>
       </header>
